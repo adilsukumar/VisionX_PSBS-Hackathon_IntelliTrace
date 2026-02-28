@@ -75,5 +75,8 @@ Our Risk Engine fuses multiple factors into a single, real-time Composite Risk R
 
 ## 👨‍💻 Team VisionX
 * **Adil Sukumar** (25MIB10056)
+* **Namratha Gowda** (25BCY10141) 
+* **Rutuja Kharode** (25BCE10605) 
+* **Snehal Dixit** (25MIP10072)
 
 *VIT Bhopal University - Software Category*
